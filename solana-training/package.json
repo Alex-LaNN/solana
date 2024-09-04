@@ -1,0 +1,32 @@
+{
+  "name": "solana-training",
+  "version": "1.0.0",
+  "description": "A tutorial on how to build something like this: \"A decentralized marketplace for creating, buying, and selling NFTs on the Solana platform.\"",
+  "main": "index.js",
+  "scripts": {
+    "generaye-k": "npx esrun src/generate-keypair.ts",
+    "load-k": "npx esrun src/load-keypair.ts",
+    "check-b": "npx esrun src/check-balance.ts",
+    "send": "npx esrun src/send-sol.ts",
+    "create-t-mint": "npx esrun src/create-token-mint.ts",
+    "create-t-account": "npx esrun src/create-token-account.ts",
+    "mint-tokens": "npx esrun src/mint-tokens.ts",
+    "create-t-metadata": "npx esrun src/create-token-metadata.ts"
+  },
+  "keywords": [
+    "[\"solana\"",
+    "\"nft\"",
+    "\"marketplace\"",
+    "\"blockchain\"]"
+  ],
+  "author": "Alex-LaNN",
+  "license": "MIT",
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@solana-developers/helpers": "^2.4.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.2",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26"
+  }
+}
