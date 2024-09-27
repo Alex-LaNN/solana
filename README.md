@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://solana.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Solana_logo.svg" width="200" alt="Логотип Solana" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Solana_logo.svg" width="200" alt="Solana Logo" />
   </a>
 </p>
 
@@ -10,16 +10,16 @@
   <a href="https://www.npmjs.com/package/@solana/web3.js" target="_blank"><img src="https://img.shields.io/npm/dm/@solana/web3.js.svg" alt="NPM Downloads" /></a>
 
 
-## Описание репозитория
+## Repository Description
 
-Этот репозиторий содержит различные файлы и программы, связанные с разработкой на платформе Solana. Он включает в себя:
+This repository contains various files and programs related to Solana development. It includes:
 
-- **Смарт-контракты**: Исходный код смарт-контрактов, написанных на Rust, демонстрирующих функциональность и возможности платформы Solana.
-  
-- **Примеры программ**: Набор примеров, показывающих, как взаимодействовать с блокчейном Solana, включая создание и выполнение транзакций.
-  
-- **Тесты**: Файлы, содержащие тесты для проверки работоспособности смарт-контрактов и приложений, что обеспечивает надежность и безопасность кода.
-  
-- **Документация**: Инструкции и комментарии, помогающие пользователям понять, как использовать и развивать приложения на базе Solana.
+- **Smart Contracts**: Source code for smart contracts written in Rust that demonstrate the functionality and capabilities of the Solana platform.
 
-Этот репозиторий служит полезным ресурсом для разработчиков, заинтересованных в создании децентрализованных приложений (dApps) на платформе Solana, благодаря предоставленным примерам и инструментам.
+- **Sample Programs**: A set of examples showing how to interact with the Solana blockchain, including creating and executing transactions.
+
+- **Tests**: Files containing tests to verify that smart contracts and applications are working properly, ensuring the reliability and security of the code.
+
+- **Documentation**: Instructions and comments to help users understand how to use and develop applications based on Solana.
+
+This repository serves as a useful resource for developers interested in building decentralized applications (dApps) on the Solana platform, thanks to the examples and tools provided.
